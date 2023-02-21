@@ -2,7 +2,7 @@
 This is a Python script for working with a SQL table.
 It is primarily for seeing how much time you spend studying. 
 
-# Functionality
+# Functionality:
 Using this script you will be able to add the date, your name, the title of the lesson you worked on, and the duration of the lesson.
 You will then be able to sum up the duration of the lessons that you worked on for a given day.
 
