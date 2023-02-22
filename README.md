@@ -9,5 +9,5 @@ You will then be able to sum up the duration of the lessons that you worked on f
 You can also create a table, delete a table, and delete an rows of a table (1 row at a time, I'm working on improving ths) 
 
 # Some Notes:
-1. You will need to set up a MySQL database to use this script's functions
+1. You will need to set up a MySQL database and connect to it to use this script's functions
 2. This little program does not flow very well (I'm working on improving it)
