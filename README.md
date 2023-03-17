@@ -1,5 +1,5 @@
 # Study Manager
-This is a Python script for working with a SQL table.
+This is a Python script for working with a locally hosted SQL table.
 It is primarily for seeing how much time you spend studying. 
 
 # Functionality:
