@@ -1,4 +1,4 @@
-# Study Analyst
+# Study Manager
 This is a Python script for working with a SQL table.
 It is primarily for seeing how much time you spend studying. 
 
